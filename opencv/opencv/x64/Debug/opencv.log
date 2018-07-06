@@ -1,0 +1,4 @@
+﻿  plus.cpp
+c:\users\dldlw\onedrive\문서\visual studio 2015\projects\opencv\opencv\plus.cpp(92): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  opencv.vcxproj -> C:\Users\dldlw\OneDrive\문서\visual studio 2015\Projects\opencv\x64\Debug\opencv.exe
+  opencv.vcxproj -> C:\Users\dldlw\OneDrive\문서\visual studio 2015\Projects\opencv\x64\Debug\opencv.pdb (Partial PDB)
